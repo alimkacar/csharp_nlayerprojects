@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayera", "Prese
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#.EfProject", "c#.EfProject\c#.EfProject.csproj", "{A17DF59C-B8A6-4FD8-AB6C-BBB7172A115C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpprojectDapper", "csharpproject2nd\csharpprojectDapper.csproj", "{660C13C2-0019-4DE3-BB7A-1CEC2453047A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +41,15 @@ Global
 		{A17DF59C-B8A6-4FD8-AB6C-BBB7172A115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17DF59C-B8A6-4FD8-AB6C-BBB7172A115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17DF59C-B8A6-4FD8-AB6C-BBB7172A115C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660C13C2-0019-4DE3-BB7A-1CEC2453047A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660C13C2-0019-4DE3-BB7A-1CEC2453047A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660C13C2-0019-4DE3-BB7A-1CEC2453047A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660C13C2-0019-4DE3-BB7A-1CEC2453047A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1E509D-31F9-4444-842F-016CCD896176}
 	EndGlobalSection
 EndGlobal
