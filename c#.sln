@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAcce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{5E57D384-B879-43CA-913E-FC03DCF260E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayera", "PresentationLayera\PresentationLayera.csproj", "{3D35F3D5-7725-450E-B6CA-D933663A4075}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayera\PresentationLayer.csproj", "{3D35F3D5-7725-450E-B6CA-D933663A4075}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#.EfProject", "c#.EfProject\c#.EfProject.csproj", "{A17DF59C-B8A6-4FD8-AB6C-BBB7172A115C}"
 EndProject
