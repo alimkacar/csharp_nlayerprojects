@@ -18,7 +18,7 @@ namespace DataAccessLayer.Repositories
         public GenericRepository()
         {
             _object = context.Set<T>();
-        }
+        } 
         public void Delete(T entity)
         {
             var deletedentity = context.Entry(entity);
